@@ -1,0 +1,49 @@
+body {
+  background-color: #191919;
+}
+
+button {
+  background-color: #383e56;
+  border-radius: 15px;
+  color: white;
+  font-size: 14pt;
+  
+}
+.button-decrease {
+  margin-left: 100px;
+  padding: 10px 20px;
+}
+
+.button-increase {
+  padding: 10px 20px;
+}
+
+.button-reset {
+  margin-left: 100px;
+  margin-top: 5px;
+  padding: 15px 28px;
+}
+.count {
+  font-size: 75pt;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.top {
+  background-color: #383e56;
+  border-radius: 15px 15px 0 0;
+  color: white;
+  height: 50px;
+  font-size: 30pt;
+  text-align: center;
+  width:300px;
+  margin: auto;
+}
+
+.middle {
+  background-color: #eedad1;
+  border-radius: 0 0 15px 15px ;
+  height: 400px;
+  width:300px;
+  margin: auto;
+}
